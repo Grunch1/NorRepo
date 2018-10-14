@@ -5,3 +5,4 @@ function main(){
    fs.appendFileSync(file, "Hello world\n");
 }
 main();
+// terminal node print.js
